@@ -8,6 +8,8 @@ from pathlib import Path
 DOMAIN_KEYWORD = "rocloud.id"
 REPO_DIR = Path("osint-trufflehog-lab")
 BRANCH_NAME = "test/leak-simulation"
+API_URL=https://api.rocloud.id
+EMAIL=admin@rocloud.id
 FILE_NAME = "config/dev.env"
 README_NAME = "README.md"
 # Fake secrets for safe simulation:
