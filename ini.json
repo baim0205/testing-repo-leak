@@ -1,0 +1,15 @@
+{
+  "project": {
+    "name": "rocloud",
+    "environment": "production"
+  },
+  "network": {
+    "domain": "rocloud.id",
+    "base_url": "https://rocloud.id",
+    "admin_url": "https://admin.rocloud.id",
+    "ssl_enabled": true
+  },
+  "contact": {
+    "support_email": "help@rocloud.id"
+  }
+}
